@@ -3,7 +3,7 @@ import './styles.css';
 import Navbar from './components/Navbar';
 import Searchbar from './components/Searchbar';
 import Pokedex from './components/Pokedex';
-import { getPokemons, getPokemon } from "./services/api";
+import { getPokemons, getPokemon } from "./services/apis";
 
 function App() {
 

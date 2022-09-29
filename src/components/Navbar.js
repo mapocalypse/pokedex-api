@@ -4,7 +4,7 @@ const Navbar = () => {
     return(
         <nav>
             <div>
-                <img src={require('../images/pokeapi_logo.png')} alt="PokéAPI logo" />
+                <img src={require('../images/pokeapi-logo.png')} alt="PokéAPI logo" />
             </div>
         </nav>
     )
