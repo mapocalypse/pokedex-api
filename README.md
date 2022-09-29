@@ -8,9 +8,6 @@ React application that consumes PokéAPI, made with ReactJS and Bootstrap for st
 - Node.js
 - NPM
 
-## Screenshots
-![Pokédex Homepage](../images/pokedex-index.jpg)
-
 ## Instalation
 `git clone https://github.com/mapocalypse/pokedex-api.git
 cd pokedex-api
